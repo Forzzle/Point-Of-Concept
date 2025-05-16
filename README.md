@@ -1,111 +1,111 @@
 # Point-Of-Concept
 
-## 한국시각장애인 복지관 인터뷰
-### 키워드
-여행 서비스, 지원 프로그램, 비용, 야외 활동, 여행, 이동, 시각장애인, 앱 개발, 사용자 경험
+## Interview with the Korea Blind Welfare Center
+### Keywords
+Travel service, support program, cost, outdoor activity, travel, mobility, visually impaired, app development, user experience
 
-### 요약
-#### 시각장애인 여행 서비스 기획 문의
-시각장애인 대상 여행 서비스 기획을 위해 한국 시각장애인복지관에 문의.,
-기존 여행과 달리 시각장애인의 여행 관련 어려움과 불편사항 파악을 목표.,
-시각장애인 여행 시 우선시되는 점(이동 장애물, 일정, 장소, 식사 등)에 대한 정보 획득.,
+### Summary
+#### Inquiry on Planning a Travel Service for the Visually Impaired
+Contacted the Korea Blind Welfare Center to plan a travel service for the visually impaired.
+Aimed to identify travel-related challenges and inconveniences specific to visually impaired individuals, unlike general travel.
+Gathered information on priorities when visually impaired people travel (mobility obstacles, schedules, locations, meals, etc.).
 
-#### 지원 프로그램 운영 방식
-이동의 어려움을 고려하여 동행인 지원 또는 봉사자 매칭 제공.,
-봉사자 매칭 시 비용은 프로그램 예산에 포함되거나 개별 부담.,
-시각장애인을 위한 다양한 기회 제공 및 필요한 고려 사항 논의.,
+#### Operation of Support Programs
+Considering mobility challenges, programs offer companion support or volunteer matching.
+Costs related to volunteer matching are either covered by the program budget or borne individually.
+Various opportunities and considerations for visually impaired individuals were discussed.
 
-#### 야외 활동 지원의 어려움과 해결 방안 모색
-야외 활동 시 시각장애인 1인당 1명 이상의 케어 인력이 필요하며, 가족 동반 여부 및 활동 지원사 유무 확인이 중요하다.,
-인력 확보가 가장 큰 어려움이며, 장소나 비용은 부차적인 고려 사항이다.,
-시각장애인의 여행 선호도는 체험형 위주이며,  함께하는 사람의 설명으로 충분한 경험이 가능하다.,
+#### Challenges in Outdoor Activities and Solutions
+Outdoor activities require at least one caregiver per visually impaired individual. It is important to confirm whether family accompanies the trip or activity supporters are available.
+Securing personnel is the greatest difficulty, while location and cost are secondary concerns.
+Visually impaired individuals prefer experience-based travel and can enjoy activities through verbal descriptions from companions.
 
-#### 여행의 어려움과 이동의 중요성
-여행 중 가장 큰 어려움은 이동이었다.,
-시각장애인의 여행에서는 안내데스크까지의 거리도 도움 없이는 오래 걸리고, 목적지에서도 안내가 부족하여 어려움을 겪는다는 점이 언급되었다.,
-혼자 여행을 원하는 사람들은 주변에 도움을 요청하는 데 어려움이 없을 것이라고 추측했다.,
+#### Travel Difficulties and the Importance of Mobility
+Mobility was mentioned as the biggest challenge during travel.
+Traveling alone is difficult even when reaching the information desk due to distance and lack of guidance at destinations.
+It was assumed that those who wish to travel alone may not feel uncomfortable asking for help from others.
 
-#### 시각장애인 지원 프로그램 및 앱 현황 분석
-수원, 경주 등에서 시각장애인 관광 지원 사업이 진행 중이나, 정보 접근성 부족으로 이용률이 낮다는 점을 지적.,
-시각장애인을 위한 앱의 사용자 친화적인 면이 부족하여 불편함을 야기할 수 있다는 의견 제시.,
-정보 매체 부족으로 인해 프로그램 주관 기관의 적극적인 홍보 필요성 강조.,
+#### Analysis of Support Programs and App Status
+Tourism support programs for the visually impaired are underway in cities like Suwon and Gyeongju, but lack of accessible information leads to low usage.
+Apps for the visually impaired lack user-friendliness and may cause inconvenience.
+Emphasized the need for proactive promotion by program organizers due to limited information channels.
 
-#### 앱 개발 및 사용자 경험 개선에 대한 의견 수렴
-개발된 앱에 대한 사용자 불편사항 개선 필요성 제기,
-시각장애인 사용자 경험을 직접 청취하여 정보 수집,
-부산시각장애인복지관 방문 및 견학을 통한 추가 정보 확보 제안,
+#### Feedback on App Development and User Experience Improvement
+Identified the need to address user discomfort with existing apps.
+Collected information through direct interviews with visually impaired users.
+Suggested additional visits and field studies at the Busan Blind Welfare Center.
 
-## 시각장애인연합회 전화 인터뷰
+## Phone Interview with the Korea Blind Association
 
-### 키워드
-여행 계획, 동선, 여행 경비, 비용 증가, 여행, 초록여행, 시각장애인 여행, 편의성, 접근성, 관광지 정보, 리뷰, 앱 개발, 매칭 서비스, 안전 여행, 시각장애인
+### Keywords
+Travel planning, route, travel expenses, cost increase, travel, Green Travel (Chorok Travel), visually impaired travel, convenience, accessibility, tourist information, reviews, app development, matching service, safe travel, visually impaired
 
-### 요약
-#### 시각장애인 여행의 어려움과 동반자의 중요성
-시각장애인의 여행에 대한 인식과 어려움을 조사하기 위한 인터뷰 진행.,
-시각장애인들은 여행 시 동반자의 필요성을 가장 먼저 고려하며, 혼자 여행하기 어려워함.,
-혼자 여행 시 길 찾기 어려움, 여정의 어려움 등으로 인해 여행의 본질적인 즐거움을 누리기 어려움을 언급.,
+### Summary
+Travel Challenges and the Importance of Companions
+Conducted interviews to understand perceptions and challenges of travel among visually impaired individuals.
+The need for a companion is the top priority for visually impaired travelers, and traveling alone is very difficult.
+Cited difficulties in route finding and enjoying the essence of travel when alone.
 
-#### 여행 계획 및 동선 설정
-주변 지인들과의 여행에서 경비 부담 문제 발생 가능성 언급,
-여행 코스는 주로 여행 계획자가 설정하며, 동선은 함께 여행하는 지인에게 의존하는 경우가 많음,
-장애인 여행객의 여행 경험과 느낌에 대한 질문 제기,
+#### Travel Planning and Route Design
+Mentioned potential cost burdens when traveling with acquaintances.
+Travel routes are usually set by the planner, and visually impaired individuals often rely on companions for the itinerary.
+Asked about their personal experiences and feelings during travel.
 
-#### 시각장애인 여행 경험 분석
-시각장애인의 제주도와 포항 앞바다 여행 경험 차이는 미미하며, 체험 중심 여행을 선호한다.,
-박물관 관람 등 시각 중심 활동은 기억에 남는 경험이 적고 피곤함을 유발한다.,
-여행 계획 시 청각 중심 설명 위주의 활동은 지양하며, 비장애인과 동행 시에는 어쩔 수 없이 포함될 수 있다.,
+#### Analysis of Travel Experiences
+Little difference between travel experiences in Jeju Island and Pohang’s seaside.
+Preferred experience-based activities over visual-focused ones.
+Visual-based activities like museum visits are less memorable and tiring.
+Avoided audio-only explanations during planning; however, such activities might be unavoidable when traveling with sighted individuals.
 
-#### 여행 경비 증가 요인 분석
-여행 동반자 수 증가에 따른 경제적 부담 증가를 언급.,
-시각장애인 부부의 여행 시 활동 지원사 2명 동행으로 인한 비용 증가 설명.,
-혼자 여행 시 30만원 정도의 비용이 2인 여행 시 250만원~300만원으로 증가하는 사례 제시.,
+#### Factors Increasing Travel Expenses
+Increased economic burden due to the need for more companions.
+Shared an example where a trip that costs 300,000 KRW for a solo traveler increased to 2.5 to 3 million KRW when traveling with a spouse and two activity assistants.
 
-#### 여행의 어려움과 초록여행
-교통편과 숙식 등의 비용 때문에 여행이 쉽지 않다는 내용,
-시각장애인 친구들과의 여행에서 차량 지원에 대한 질문과 기아자동차의 초록여행 언급,
-초록여행의 운전 지원 및 숙식 제공 방식에 대한 불편함과 개선 필요성 제기,
+#### Travel Difficulties and Green Travel (Chorok Travel)
+Travel is hindered by expenses related to transportation and accommodation.
+Asked about vehicle support during trips with visually impaired friends and mentioned Kia’s Green Travel program.
+Suggested that Green Travel’s support and accommodation services are inconvenient and need improvement.
 
-#### 시각장애인 여행의 편의성 개선 방안 모색
-시각장애인의 여행 시 불편사항(계단, 이동 경로 등)을 해결하기 위한 연구.,
-AI 기반 여행 계획 앱의 활용 가능성 및 사용자 편의성 문제점 제기.,
-시각장애인의 자율적인 여행 계획 수립의 어려움과 주차 문제 등의 구체적 사례 언급.,
+#### Seeking Ways to Improve Travel Convenience
+Explored ways to resolve issues such as stairs and mobility paths.
+Proposed the use of an AI-based travel planning app and discussed its usability concerns.
+Mentioned difficulties in independently planning trips and issues like parking accessibility.
 
-#### 접근성 고려한 관광지 정보 제공의 어려움
-시각장애인에게는 주차장 유무 확인, 계단 등의 접근성 정보 확인이 어려움.,
-해안 절벽길과 같이 출발 지점에 따라 오르막/내리막 여부가 달라지는 경우,  최적 경로 선택이 어려움.,
-문경새재와 같이 코스 선택에 따라 오르막/내리막이 결정되는 경우, 상세한 리뷰 정보가 필요함.,
+#### Difficulty in Providing Accessible Tourist Information
+Visually impaired individuals have difficulty checking for features like parking lots or stairs.
+Optimal route planning is hard when incline direction changes based on starting points, such as on cliffside trails.
+In places like Mungyeong Saejae, where route elevation varies by choice, detailed reviews are necessary.
 
-#### 여행 계획 도우미 시스템 구상
-블로그 검색 및 관광지 정보 탐색 후 리뷰 확인 과정을 거쳐 여행 계획 수립.,
-여행 코스 설정 시 오르막길, 내리막길 등 지형 고려 및 고깃집 선택 시 굽는 방식 선호.,
-불편한 식사, 불친절한 서비스 등 부정적 리뷰 고려 및 장애인 편의시설 정보 제공 사이트 활용 계획.,
-앱 개발 구상: 매칭 서비스의 어려움
-앱을 통해 자원봉사자 매칭 서비스를 구상 중이나, 안전 및 신뢰성 문제로 어려움을 겪고 있음.,
-특히 외국어 사용자 간 매칭 시 언어 문제와 불미스러운 사건 발생 가능성에 대한 우려 제기.,
-중고물품 거래 앱 '당근마켓'처럼 안전한 만남 시스템 구축 필요성을 인지하고 추가적인 검토 필요성을 언급함.,
+#### Conceptualizing a Travel Assistant System
+Travel plans are usually made after searching blogs and checking reviews.
+Route planning considers terrain (e.g., uphill/downhill), and dining preferences (e.g., grilled meat type).
+Plans to use websites that offer information on accessibility and to consider negative reviews (e.g., poor service, uncomfortable dining).
+App concept: matching service
+Plans to develop a volunteer-matching service via the app. However, concerns about safety and trust remain.
+Raised issues regarding language barriers and incidents when matching users across languages.
+Recognized the need for a secure meeting system, similar to second-hand trading apps like “Karrot Market,” and emphasized the need for further review.
 
-#### 관광지 접근성 개선 방안 모색: 체험 위주 관광과 주의사항
-케이블카, 모노레일, 레일바이크 등 체험 위주 관광이 청각 장애인에게 적합하며, 동굴 관광도 가능하나 좁은 통로와 계단 등 접근성 문제 고려 필요.,
-탄광열차처럼 앉아서 이동하는 체험은 불편함이 적으나, 동굴 내 좁은 통로는 폐소공포증 유발 가능성과 체형 제약 고려해야 함.,
-동굴 관광 시 출입구 협소로 인한 불편함과 안전사고 예방을 위한 주의사항 제공 및 접근성 개선 필요성 제기.,
+#### Improving Accessibility at Tourist Sites: Experience-Focused Tourism and Cautions
+Experience-based tourism (cable cars, monorails, rail bikes) is suitable for the visually impaired. Cave tours are possible but require caution due to narrow passages and stairs.
+Experiences like mine trains are comfortable, but narrow cave passages may cause claustrophobia or physical constraints.
+Highlighted the need for accessibility improvements and safety precautions due to narrow cave entrances.
 
-#### 좁은 통로 통과 경험과 여행 동반자의 중요성
-동굴 탐험 중 좁은 통로 통과 경험으로 인한 공포심과 트라우마 가능성에 대한 논의.,
-친구, 가족과의 여행과 활동 지원사와의 여행에서 느껴지는 케어의 차이점 언급.,
-활동 지원사와의 여행에서는 사업적인 관계로 인해  여러 가지 신경 쓰이는 부분(숙소 등) 존재.,
+#### Experiences in Narrow Passages and the Importance of Companions
+Discussed fear and trauma from passing through narrow cave passages.
+Mentioned the difference in care received when traveling with friends/family versus activity assistants.
+Pointed out that travel with activity assistants may involve concerns (e.g., accommodation) due to the professional nature of the relationship.
 
-#### 시각장애인 안전 여행 방안 모색
-시각장애인의 편리하고 안전한 여행을 위한 방안 마련 논의,
-장애인 여행사 활용 및 해외 여행 시 현지 가이드 연결 가능성 언급,
-여행 중 발생하는 금전적 어려움 해결 방안 모색 필요성 제기
+#### Seeking Safe Travel Solutions for the Visually Impaired
+Discussed ways to ensure safe and convenient travel for the visually impaired.
+Mentioned the possibility of using travel agencies for the disabled and connecting with local guides for overseas trips.
+Emphasized the need to explore solutions for financial difficulties that occur during travel.
 
 <br><br>
-| 접근성 준수사항 | 접근성 권고사항 |
+| Accessibility Requirements | Accessibility Recommendations |
 |----------|----------|
 | <img src="https://github.com/user-attachments/assets/14d2bf6f-639a-4967-80c3-c640ab308af5"> | <img src="https://github.com/user-attachments/assets/04bbd731-fe22-412e-a2be-b3fd45425395"> |
 
-| UI 디자인 원리 | 버튼 위치별 성공률 |
+| UI Design Principles | Button Placement Success Rate |
 |----------|----------|
 | <img src="https://github.com/user-attachments/assets/56f5f568-dd6d-456b-8577-df34cbb11d94"> | <img src="https://github.com/user-attachments/assets/1be46427-43ab-476b-899e-e3b4887625db"> |
 
