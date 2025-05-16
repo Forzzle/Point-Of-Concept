@@ -5,35 +5,35 @@
 Travel service, support program, cost, outdoor activity, travel, mobility, visually impaired, app development, user experience
 
 ### Summary
-#### Inquiry on Planning a Travel Service for the Visually Impaired
-Contacted the Korea Blind Welfare Center to plan a travel service for the visually impaired.
-Aimed to identify travel-related challenges and inconveniences specific to visually impaired individuals, unlike general travel.
-Gathered information on priorities when visually impaired people travel (mobility obstacles, schedules, locations, meals, etc.).
+#### 1) Travel Preparation and Preferences of Visually Impaired Individuals
+- Recently, visually impaired travelers have been preparing for trips using standards similar to those of non-disabled individuals.
+- They consider general factors like schedule, destination, and meals rather than having separate limitations.
+- However, difficulties in mobility still exist, making the presence of a companion very important.
 
-#### Operation of Support Programs
-Considering mobility challenges, programs offer companion support or volunteer matching.
-Costs related to volunteer matching are either covered by the program budget or borne individually.
-Various opportunities and considerations for visually impaired individuals were discussed.
+#### 2) Companion Support and the Role of Welfare Centers
+- During outdoor activities organized by the welfare center, assigning one volunteer per visually impaired participant is often not feasible.
+- The center recruits volunteers separately or encourages participants to bring family members or personal care assistants.
+- The biggest challenge in actual operations is securing sufficient manpower.
 
-#### Challenges in Outdoor Activities and Solutions
-Outdoor activities require at least one caregiver per visually impaired individual. It is important to confirm whether family accompanies the trip or activity supporters are available.
-Securing personnel is the greatest difficulty, while location and cost are secondary concerns.
-Visually impaired individuals prefer experience-based travel and can enjoy activities through verbal descriptions from companions.
+#### 3) Experiential Content and Sensory Elements
+- While experiential activities were previously considered the most preferred, visually impaired individuals today are open to a wider range of experiences.
+- Scenery and landscapes can be indirectly enjoyed through verbal descriptions provided by companions.
+- Vivid verbal explanations play a crucial role in enhancing the overall travel experience.
 
-#### Travel Difficulties and the Importance of Mobility
-Mobility was mentioned as the biggest challenge during travel.
-Traveling alone is difficult even when reaching the information desk due to distance and lack of guidance at destinations.
-It was assumed that those who wish to travel alone may not feel uncomfortable asking for help from others.
+#### 4) Travel Challenges and Information Accessibility
+- The biggest difficulty during travel is “mobility,” which is directly tied to the presence of a travel companion.
+- Some individuals can travel alone, but they need to be comfortable with asking for help from those around them.
+- Tourism support programs for the visually impaired offered by certain municipalities (e.g., Suwon, Gyeongju) are not well known due to a lack of accessible information.
+- Since visually impaired individuals often have limited access to information, active promotion by organizing institutions is essential.
 
-#### Analysis of Support Programs and App Status
-Tourism support programs for the visually impaired are underway in cities like Suwon and Gyeongju, but lack of accessible information leads to low usage.
-Apps for the visually impaired lack user-friendliness and may cause inconvenience.
-Emphasized the need for proactive promotion by program organizers due to limited information channels.
+#### 5) Feedback on Apps and Services for the Visually Impaired
+- Although there are many apps designed specifically for visually impaired users, actual usability varies widely depending on the individual.
+- The main issues are less about the app functionality itself and more about lack of user-friendliness and overly complex UI design.
 
-#### Feedback on App Development and User Experience Improvement
-Identified the need to address user discomfort with existing apps.
-Collected information through direct interviews with visually impaired users.
-Suggested additional visits and field studies at the Busan Blind Welfare Center.
+### Conclusion and Implications
+- Travel for the visually impaired has become more accessible than in the past, but support in terms of human resources and information remains a critical issue.
+- Rather than the disability itself, factors like information accessibility, availability of companions, and mobility assistance determine the quality of the travel experience.
+- Future service planning should go beyond visual content and consider incorporating descriptive interfaces, experiential substitutes, and information curation features.
 
 ## Phone Interview with the Korea Blind Association
 
@@ -41,64 +41,41 @@ Suggested additional visits and field studies at the Busan Blind Welfare Center.
 Travel planning, route, travel expenses, cost increase, travel, Green Travel (Chorok Travel), visually impaired travel, convenience, accessibility, tourist information, reviews, app development, matching service, safe travel, visually impaired
 
 ### Summary
-Travel Challenges and the Importance of Companions
-Conducted interviews to understand perceptions and challenges of travel among visually impaired individuals.
-The need for a companion is the top priority for visually impaired travelers, and traveling alone is very difficult.
-Cited difficulties in route finding and enjoying the essence of travel when alone.
+#### 1) Importance of Travel Companions
+- For visually impaired individuals, “who they travel with” is the top consideration when planning a trip.
+- While traveling alone is physically possible, the need for repeated assistance throughout the journey presents significant practical limitations.
+- They usually travel with friends or family; if not available, a personal care assistant (PCA) accompanies them.
+- However, the full cost of hiring a PCA must be borne by the individual, creating a heavy financial burden.
 
-#### Travel Planning and Route Design
-Mentioned potential cost burdens when traveling with acquaintances.
-Travel routes are usually set by the planner, and visually impaired individuals often rely on companions for the itinerary.
-Asked about their personal experiences and feelings during travel.
+#### 2) Travel Routes and Itinerary Planning
+- The travel destination is often chosen directly by the visually impaired person.
+- Travel routes (e.g., efficient paths, where to stop for lunch) are typically planned by the sighted companion.
+- Details such as parking availability or the presence of steep slopes are difficult for visually impaired travelers to check themselves.
 
-#### Analysis of Travel Experiences
-Little difference between travel experiences in Jeju Island and Pohang’s seaside.
-Preferred experience-based activities over visual-focused ones.
-Visual-based activities like museum visits are less memorable and tiring.
-Avoided audio-only explanations during planning; however, such activities might be unavoidable when traveling with sighted individuals.
+#### 3) Preference for Hands-On Experiences
+- Compared to visually centered attractions like museums or exhibitions, they tend to prefer experiential activities.
+- While auditory descriptions are necessary, excessive information can lead to fatigue.
+- Places involving hands-on food preparation or kiosks that are hard to use are generally avoided due to inconvenience.
 
-#### Factors Increasing Travel Expenses
-Increased economic burden due to the need for more companions.
-Shared an example where a trip that costs 300,000 KRW for a solo traveler increased to 2.5 to 3 million KRW when traveling with a spouse and two activity assistants.
+#### 4) Financial and Practical Constraints
+- Traveling with a PCA doubles the cost (transportation, meals, accommodation, etc.).
+- For two people, total trip costs can exceed several million KRW.
+- If the PCA cannot drive, travelers often need to request vehicle support.
 
-#### Travel Difficulties and Green Travel (Chorok Travel)
-Travel is hindered by expenses related to transportation and accommodation.
-Asked about vehicle support during trips with visually impaired friends and mentioned Kia’s Green Travel program.
-Suggested that Green Travel’s support and accommodation services are inconvenient and need improvement.
+#### 5) Information Accessibility and Matching Services
+- It is difficult to access detailed information about travel destinations, so they often rely heavily on reviews.
+- Some welfare centers (e.g., Hasang Center for the Disabled) provide websites with menu and destination information.
+- Matching with volunteers is a sensitive issue due to trust concerns; verified matching systems are essential to prevent incidents.
 
-#### Seeking Ways to Improve Travel Convenience
-Explored ways to resolve issues such as stairs and mobility paths.
-Proposed the use of an AI-based travel planning app and discussed its usability concerns.
-Mentioned difficulties in independently planning trips and issues like parking accessibility.
+#### 6) Demand for Disability-Friendly Routes
+- Routes with gentle slopes or simple activities (e.g., cable cars, rail bikes) receive positive feedback.
+- Certain locations, like caves, may trigger fear or claustrophobia → prior information is crucial.
+- The presence of stairs or the choice of starting point can significantly affect difficulty → comparative info between point A and B should be provided.
 
-#### Difficulty in Providing Accessible Tourist Information
-Visually impaired individuals have difficulty checking for features like parking lots or stairs.
-Optimal route planning is hard when incline direction changes based on starting points, such as on cliffside trails.
-In places like Mungyeong Saejae, where route elevation varies by choice, detailed reviews are necessary.
-
-#### Conceptualizing a Travel Assistant System
-Travel plans are usually made after searching blogs and checking reviews.
-Route planning considers terrain (e.g., uphill/downhill), and dining preferences (e.g., grilled meat type).
-Plans to use websites that offer information on accessibility and to consider negative reviews (e.g., poor service, uncomfortable dining).
-App concept: matching service
-Plans to develop a volunteer-matching service via the app. However, concerns about safety and trust remain.
-Raised issues regarding language barriers and incidents when matching users across languages.
-Recognized the need for a secure meeting system, similar to second-hand trading apps like “Karrot Market,” and emphasized the need for further review.
-
-#### Improving Accessibility at Tourist Sites: Experience-Focused Tourism and Cautions
-Experience-based tourism (cable cars, monorails, rail bikes) is suitable for the visually impaired. Cave tours are possible but require caution due to narrow passages and stairs.
-Experiences like mine trains are comfortable, but narrow cave passages may cause claustrophobia or physical constraints.
-Highlighted the need for accessibility improvements and safety precautions due to narrow cave entrances.
-
-#### Experiences in Narrow Passages and the Importance of Companions
-Discussed fear and trauma from passing through narrow cave passages.
-Mentioned the difference in care received when traveling with friends/family versus activity assistants.
-Pointed out that travel with activity assistants may involve concerns (e.g., accommodation) due to the professional nature of the relationship.
-
-#### Seeking Safe Travel Solutions for the Visually Impaired
-Discussed ways to ensure safe and convenient travel for the visually impaired.
-Mentioned the possibility of using travel agencies for the disabled and connecting with local guides for overseas trips.
-Emphasized the need to explore solutions for financial difficulties that occur during travel.
+#### Conclusion and Implications
+- For visually impaired individuals, travel is not just sightseeing—it’s a safe, companion-centered experiential journey.
+- Practical information (e.g., slope gradients, activity accessibility, dining convenience) greatly influences travel decisions.
+- Services must address real issues like cost burden, reliable companion matching, and lack of accessible information to create meaningful solutions.
 
 <br><br>
 | Accessibility Requirements | Accessibility Recommendations |
@@ -108,6 +85,54 @@ Emphasized the need to explore solutions for financial difficulties that occur d
 | UI Design Principles | Button Placement Success Rate |
 |----------|----------|
 | <img src="https://github.com/user-attachments/assets/56f5f568-dd6d-456b-8577-df34cbb11d94"> | <img src="https://github.com/user-attachments/assets/1be46427-43ab-476b-899e-e3b4887625db"> |
+
+<br><br>
+# POC(Point Of Concept)
+![image](https://github.com/user-attachments/assets/e21c8a8b-31f2-446c-b875-0c3c23b2b385)
+
+## Purpose
+
+To identify pain points in the travel experiences of visually impaired individuals and validate the need for an accessibility-focused travel information and navigation app based on real user insights.
+
+## Key Themes
+
+- Difficulties faced by visually impaired individuals while traveling and possible improvements  
+- Importance of accessibility-focused design and dedicated apps for the visually impaired  
+- Recommendations for improving accessibility at tourist destinations
+
+## Travel Stage Insights
+
+### 1. Pre-Travel (Planning Phase)
+
+- Information searching is possible, but planning travel routes is cited as the biggest challenge.  
+- YouTube and blogs are frequently used for research, but there’s a lack of refined, accessible information.  
+- Accessibility of terrain (e.g., stairs, road conditions) is a key factor when choosing destinations.
+
+### 2. During Travel *(optional)*
+
+- Visually impaired travelers prefer experience-based activities (e.g., leisure sports, local food, fishing).  
+- There are cases where participation is restricted at tourist sites due to visual impairment — perceived as discrimination.
+
+### 3. Post-Travel *(optional)*
+
+- Travel memories are often recorded through photos or shared verbally.  
+- Writing text-based diaries is difficult; map-based review features often lack accessibility.  
+- Community engagement is relatively low due to unfamiliarity and inconvenient UI.
+
+## Desired Features
+
+> 💡 Feedback: *"An app that is truly usable by visually impaired people must focus on **simplicity, accessibility, and essential functionality.***"
+
+- Route optimization  
+- Summarized reviews  
+- Easy reservation system  
+- Collection of experience-based activities accessible for visually impaired users
+
+## Conclusion & Service Necessity
+
+- The travel experience of visually impaired individuals is shaped by **who they travel with**, **what information they can access**, and **how they move around**.  
+- Features such as **AI-based route recommendations** and **condensed, accessible travel information** are highly practical.  
+- More important than adding new technology is **focusing on accessibility and simplicity** — apps must be designed around core, essential features.
 
 
 
