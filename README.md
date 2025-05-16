@@ -99,3 +99,15 @@ AI 기반 여행 계획 앱의 활용 가능성 및 사용자 편의성 문제�
 시각장애인의 편리하고 안전한 여행을 위한 방안 마련 논의,
 장애인 여행사 활용 및 해외 여행 시 현지 가이드 연결 가능성 언급,
 여행 중 발생하는 금전적 어려움 해결 방안 모색 필요성 제기
+
+<br><br>
+| 접근성 준수사항 | 접근성 권고사항 |
+|----------|----------|
+| <img src="https://github.com/user-attachments/assets/14d2bf6f-639a-4967-80c3-c640ab308af5"> | <img src="https://github.com/user-attachments/assets/04bbd731-fe22-412e-a2be-b3fd45425395"> |
+
+| UI 디자인 원리 | 버튼 위치별 성공률 |
+|----------|----------|
+| <img src="https://github.com/user-attachments/assets/56f5f568-dd6d-456b-8577-df34cbb11d94"> | <img src="https://github.com/user-attachments/assets/1be46427-43ab-476b-899e-e3b4887625db"> |
+
+
+
